@@ -9,7 +9,7 @@ import java.sql.SQLException;
 
 /**
  * @author sk
- *
+ * JDBC Operation
  */
 public class MySqlConnectionUtils {
 
