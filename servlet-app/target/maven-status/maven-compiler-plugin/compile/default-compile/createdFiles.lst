@@ -1,0 +1,16 @@
+com/app/beans/Product.class
+com/app/servlets/UserInfoServlet.class
+com/app/utils/DBUtils.class
+com/app/filters/EncodingFilter.class
+com/app/connectionUtills/MySqlConnectionUtils.class
+com/app/servlets/LoginServlet.class
+com/app/connectionUtills/ConnectionUtils.class
+com/app/servlets/ProductListServlet.class
+com/app/servlets/CreateProductServlet.class
+com/app/beans/UserAccount.class
+com/app/servlets/HomeServlet.class
+com/app/servlets/DeleteProductServlet.class
+com/app/servlets/EditProductServlet.class
+com/app/utils/MyUtils.class
+com/app/filters/CookieFilter.class
+com/app/filters/JDBCFilter.class
